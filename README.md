@@ -1,4 +1,4 @@
-```red
+```
 
                             _________  ___  ___  __    _________  ________  ___  __
                             |\___   ___\\  \|\  \|\  \ |\___   ___\\   __  \|\  \|\  \
@@ -22,7 +22,7 @@ FBI is an accurate facebook account information gathering, all sensitive informa
 
 
 # [ Installation ]
-```
+```red
 $ apt update && apt upgrade
 $ apt install git python2
 $ git clone https://github.com/iiAboooodii/TikTok-Checker.git
@@ -30,11 +30,11 @@ $ cd TikTok-Checker
 ```
 
 # [ Setup ]
-```
+```yellow
 $ pip2 install -r requirements.txt
 ```
 # [ Running ]
-```
+```green
 $ python2 Tiktok.py
 ```
 
