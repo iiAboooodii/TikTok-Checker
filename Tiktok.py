@@ -6,10 +6,10 @@ from colorama import *
 req = requests.session()
 banner = """\033[1;33m
  ░░╚══╗░╔═╔════╝  Tool: TikTok Username Checker
- ╚═╦═╗╠═╩═╩╗╔═╦═╗ Author: aaBooD ~!
- ░░║▒╠╣▒▒▒▒╠╣▒║▒║ Version: 1.0v
- ╔═╩═╝╠═╦═╦╝╚═╩═╝ Developer: @DDDPDDDD
- ░░╔══╝░╚═╚════╗  Telegram: @QQEUQQ
+ ╚═╦═╗╠═╩═╩╗╔═╦═╗ Control: Telegram Bot
+ ░░║▒╠╣▒▒▒▒╠╣▒║▒║ Author: aaBooD ~!
+ ╔═╩═╝╠═╦═╦╝╚═╩═╝ Version: 1.0v
+ ░░╔══╝░╚═╚════╗  Developer: @DDDPDDDD
 =============================================="""
 print(banner)
 print(" ")
@@ -17,7 +17,8 @@ le = int(input('[+] User Length : '))
 print("==============================================")
 print(" ")
 chrs = 'abcdefg_hijklmnopqrstuvwxyz1234567890'
-sleep = int(input('[+] Sleep? : '))
+print(" ")
+sleep = int(input('[+] Sleep : '))
 print(" ")
 print("==============================================")
 print(" ")
