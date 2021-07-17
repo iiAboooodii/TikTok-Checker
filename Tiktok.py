@@ -1,17 +1,23 @@
 import random
 import requests
-import time
+import sys as n
+import time as mm
 from colorama import *
-
+import threading
 req = requests.session()
-banner = """\033[1;33m
+def slow(M):
+    for c in M + '\n':
+        n.stdout.write(c)
+        n.stdout.flush()
+        mm.sleep(1. / 200)
+slow('''"""\033[1;33m
  ░░╚══╗░╔═╔════╝  Tool: TikTok Username Checker
  ╚═╦═╗╠═╩═╩╗╔═╦═╗ Control: Telegram Bot
  ░░║▒╠╣▒▒▒▒╠╣▒║▒║ Author: aaBooD ~!
  ╔═╩═╝╠═╦═╦╝╚═╩═╝ Version: 1.0v
  ░░╔══╝░╚═╚════╗  Developer: @DDDPDDDD
-=============================================="""
-print(banner)
+==============================================
+''')
 print(" ")
 le = int(input('[+] User Length : '))
 print("==============================================")
