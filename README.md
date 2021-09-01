@@ -2,7 +2,7 @@
 
 ### [+] Created By "> <a href="https://github.com/iiAboooodii">Marshal Abood</a> 
 
-### [+] Decription ">
+### [+] Description ">
 ***TikTok Username Checker With Telegram Bot Control , Put The User Length Do You Need & Sleep By Seconds & Your Telegram ID.***
 
 ### [+] Installation ">
