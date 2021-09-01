@@ -7,7 +7,7 @@
 
 ### [+] Installation ">
 
-```apt install git python2```
+```apt install git python```
 
 ```git clone https://github.com/iiAboooodii/TikTok-Checker.git```
 
