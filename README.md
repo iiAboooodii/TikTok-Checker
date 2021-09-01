@@ -27,7 +27,7 @@ apt install python && git clone https://github.com/iiAboooodii/TikTok-Checker.gi
 2. Choose Range Of Username.
 3. Tool Connect To Telegram Bot.
 
-<h3><b><i>📡 Get in Touch "> </i></b></h3>
+### [+] Get in Touch ">
 <a href="https://github.com/iiAboooodii"><img align="left" title="Github" alt="Github" width="48px" src="assets/github.png" /></a>
 <a href="https://m.me/xiAbooD"><img align="left" title="Messenger" alt="Messenger" width="48px" src="assets/messenger.png" /></a>
 <a href="https://t.me/i7iii0"><img align="left" title="Telegram" alt="Telegram" width="48px" src="assets/telegram.png" /></a>
