@@ -1,49 +1,37 @@
+# TikTok Username Checker
+
+### [+] Created By "> <a href="https://github.com/iiAboooodii">Marshal Abood</a> 
+
+### [+] Decription ">
+***TikTok Username Checker With Telegram Bot Control , Put The User Length Do You Need & Sleep By Seconds & Your Telegram ID.***
+
+### [+] Installation ">
+
+```apt install git python2```
+
+```git clone https://github.com/iiAboooodii/TikTok-Checker.git```
+
+```cd TikTok-Checker```
+
+```pip2 install -r requirements.txt```
+
+```python Tiktok.py```
+
+
+### [+] Single Command "> 
 ```
-
-                        _________  ___  ___  __    _________  ________  ___  __
-                        |\___   ___\\  \|\  \|\  \ |\___   ___\\   __  \|\  \|\  \
-                         \|___ \  \_\ \  \ \  \/  /|\|___ \  \_\ \  \|\  \ \  \/  /|_
-                              \ \  \ \ \  \ \   ___  \   \ \  \ \ \  \\\  \ \   ___  \
-                               \ \  \ \ \  \ \  \\ \  \   \ \  \ \ \  \\\  \ \  \\ \  \
-                                \ \__\ \ \__\ \__\\ \__\   \ \__\ \ \_______\ \__\\ \__\
-                                 \|__|  \|__|\|__| \|__|    \|__|  \|_______|\|__| \|__|
-
-                          ________  ___  ___  _______   ________  ___  __    _______   ________
-                         |\   ____\|\  \|\  \|\  ___ \ |\   ____\|\  \|\  \ |\  ___ \ |\   __  \
-                          \ \  \___|\ \  \\\  \ \   __/|\ \  \___|\ \  \/  /|\ \   __/|\ \  \|\  \
-                           \ \  \    \ \   __  \ \  \_|/_\ \  \    \ \   ___  \ \  \_|/_\ \   _  _\
-                            \ \  \____\ \  \ \  \ \  \_|\ \ \  \____\ \  \\ \  \ \  \_|\ \ \  \\  \|
-                             \ \_______\ \__\ \__\ \_______\ \_______\ \__\\ \__\ \_______\ \__\\ _\
-                              \|_______|\|__|\|__|\|_______|\|_______|\|__| \|__|\|_______|\|__|\|__|
-                                  
+apt install python && git clone https://github.com/iiAboooodii/TikTok-Checker.git && cd TikTok-Checker && pip2 install -r requirements.txt && python3 Tiktok.py
 ```
-TikTok Username Checker With Telegram Bot Control , Put The User Length Do You Need & Sleep By Seconds & Your Bot Token & Your Telegram ID .
+### [+] Features ">
+1. Get a TikTok Username.
+2. Choose Range Of Username.
+3. Tool Connect To Telegram Bot.
 
-
-
-# [ Installation ]
-```red
-$ apt update && apt upgrade
-$ apt install git python2
-$ git clone https://github.com/iiAboooodii/TikTok-Checker.git
-$ cd TikTok-Checker
-```
-
-# [ Setup ]
-```yellow
-$ pip2 install -r requirements.txt
-```
-# [ Running ]
-```green
-$ python2 Tiktok.py
-```
-
-
-## Find Me on :
-
-[![Github](https://img.shields.io/badge/Github-0Riddle0-green?style=for-the-badge&logo=github)](https://github.com/iiAboooodii)
-
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/xiAbooD)
-
-
-
+<h3><b><i>📡 Get in Touch "> </i></b></h3>
+<a href="https://github.com/iiAboooodii"><img align="left" title="Github" alt="Github" width="48px" src="assets/github.png" /></a>
+<a href="https://m.me/xiAbooD"><img align="left" title="Messenger" alt="Messenger" width="48px" src="assets/messenger.png" /></a>
+<a href="https://t.me/i7iii0"><img align="left" title="Telegram" alt="Telegram" width="48px" src="assets/telegram.png" /></a>
+<a href="https://twitter.com/iiAboooodii"><img align="left" title="Twitter" alt="Twitter" width="48px" src="assets/twitter.png" /></a>
+<a href="https://tellonym.me/flxv"><img align="left" title="Tellonym" alt="Tellonym" width="48px" src="assets/tellonym.png" /></a>
+  
+  
